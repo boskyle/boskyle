@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hey, I’m Boswell Orendain  
 
-<!--
-**boskyle/boskyle** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Full-Stack Engineer | Systems Architect | Indie SaaS Builder  
 
-Here are some ideas to get you started:
+I design and build **production-grade systems** from the ground up — from developer toolchains and scalable APIs to self-hosted cloud infrastructure. My work blends **system design, DevOps, and developer experience (DX)** with a focus on simplicity, scalability, and freedom from vendor lock-in.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧩 What I’m Building
+- **🍱 Bento** — CLI + SaaS for spinning up **production-ready stacks** in minutes.  
+- **🎮 MMORPG** — A modular online RPG with scalable combat, quest, and reward systems.  
+- **📚 Anima** — CMS + API platform for lore, stories, and patch notes.  
+- **☁️ Atlas** — My self-hosted home lab (64GB RAM) running 20+ Dockerized apps, CI/CD pipelines, NGINX reverse proxies, and MariaDB with TLS.  
+
+---
+
+## 🔧 My Toolbox
+- **Languages:** TypeScript, Go, PHP (Laravel), Lua, Python  
+- **Frontend:** React, Vue 3, Tailwind, Vite  
+- **Backend:** Laravel, Node.js, REST APIs, JWT Auth  
+- **DevOps / Infra:** Docker, NGINX, GitHub Actions CI/CD, MariaDB/Postgres, Cloudflare, TLS/SSL  
+- **Architecture:** Modular design, design patterns (Singleton, Observer, Factory, Strategy), distributed systems  
+
+---
+
+## 🌱 Current Focus
+- Scaling **Bento** into a lightweight SaaS with recurring revenue.  
+- Building and expanding my **MMORPG** with extensible systems.  
+- Refining **Atlas** into a showcase of self-hosted, production-grade infra.  
+
+---
+
+## 📫 Let’s Connect
+- **Portfolio:** [froggie.ca](https://bos.froggie.ca)  
+- **GitHub:** [github.com/boskyle](https://github.com/boskyle)  
+- **LinkedIn:** [linkedin.com/in/boskyle](https://linkedin.com/in/boskyle)  
+
+---
+
+✨ *I’m obsessed with turning complex systems into tools that feel simple — whether it’s helping developers skip infrastructure headaches or scaling games to thousands of players.*  
