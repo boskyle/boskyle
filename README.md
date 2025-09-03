@@ -25,9 +25,7 @@ I design and build **production-grade systems** from the ground up — from deve
 ---
 
 ## 🌱 Current Focus
-- Scaling **Bento** into a lightweight SaaS with recurring revenue.  
-- Building and expanding my **MMORPG** with extensible systems.  
-- Refining **Atlas** into a showcase of self-hosted, production-grade infra.  
+- Scaling **Bento** into a lightweight SaaS with recurring revenue.   
 - Expanding into **cloud deployments** with DigitalOcean as Bento adoption grows.  
 
 ---
