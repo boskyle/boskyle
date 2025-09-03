@@ -7,10 +7,10 @@ I design and build **production-grade systems** from the ground up — from deve
 ---
 
 ## 💻 My Current Software
+- **☁️ Atlas** — My self-hosted private cloud running 20+ Dockerized apps, CI/CD pipelines, NGINX reverse proxies, and MariaDB with TLS.  
 - **🍱 Bento** — CLI + SaaS for spinning up **production-ready stacks** in minutes.  
-- **🎮 MMORPG** — A modular online RPG with scalable combat, quest, and reward systems.  
 - **📚 Anima** — CMS + API platform for lore, stories, and patch notes.  
-- **☁️ Atlas** — My self-hosted home lab (64GB RAM) running 20+ Dockerized apps, CI/CD pipelines, NGINX reverse proxies, and MariaDB with TLS.  
+
 
 ---
 
