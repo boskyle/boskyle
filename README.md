@@ -6,7 +6,7 @@ I design and build **production-grade systems** from the ground up — from deve
 
 ---
 
-## 🧩 What I’m Building
+## 💻 My Current Software
 - **🍱 Bento** — CLI + SaaS for spinning up **production-ready stacks** in minutes.  
 - **🎮 MMORPG** — A modular online RPG with scalable combat, quest, and reward systems.  
 - **📚 Anima** — CMS + API platform for lore, stories, and patch notes.  
@@ -19,6 +19,7 @@ I design and build **production-grade systems** from the ground up — from deve
 - **Frontend:** React, Vue 3, Tailwind, Vite  
 - **Backend:** Laravel, Node.js, REST APIs, JWT Auth  
 - **DevOps / Infra:** Docker, NGINX, GitHub Actions CI/CD, MariaDB/Postgres, Cloudflare, TLS/SSL  
+- **Cloud Computing:** Self-hosted on **Atlas** today, expanding to **DigitalOcean droplets** and beyond when scaling demands.  
 - **Architecture:** Modular design, design patterns (Singleton, Observer, Factory, Strategy), distributed systems  
 
 ---
@@ -27,12 +28,12 @@ I design and build **production-grade systems** from the ground up — from deve
 - Scaling **Bento** into a lightweight SaaS with recurring revenue.  
 - Building and expanding my **MMORPG** with extensible systems.  
 - Refining **Atlas** into a showcase of self-hosted, production-grade infra.  
+- Expanding into **cloud deployments** with DigitalOcean as Bento adoption grows.  
 
 ---
 
-## 📫 Let’s Connect
-- **Portfolio:** [froggie.ca](https://bos.froggie.ca)  
-- **GitHub:** [github.com/boskyle](https://github.com/boskyle)  
+## 📫 Socials
+- **Portfolio:** [bos.froggie.ca](https://bos.froggie.ca)  
 - **LinkedIn:** [linkedin.com/in/boskyle](https://linkedin.com/in/boskyle)  
 
 ---
