@@ -1,4 +1,4 @@
-# 👋 Hey, I’m Boswell Orendain  
+# 👋 Hey, I'm Bos
 
 🚀 Full-Stack Engineer | Systems Architect | Indie SaaS Builder  
 
