@@ -1,20 +1,19 @@
-# 👋 Hey, I'm Bos
+#  Hey, I'm Bos
 
-🚀 Full-Stack Engineer | Systems Architect | Indie SaaS Builder  
+ Full-Stack Engineer | Systems Architect | Indie SaaS Builder  
 
 I design and build **production-grade systems** from the ground up — from developer toolchains and scalable APIs to self-hosted cloud infrastructure. My work blends **system design, DevOps, and developer experience (DX)** with a focus on simplicity, scalability, and freedom from vendor lock-in.  
 
 ---
 
-## 💻 My Current Software
+##  My Current Software
 - **☁️ Atlas** — My self-hosted private cloud running 20+ Dockerized apps, CI/CD pipelines, NGINX reverse proxies, and MariaDB with TLS.  
-- **🍱 Bento** — CLI + SaaS for spinning up **production-ready stacks** in minutes.  
-- **📚 Anima** — CMS + API platform for lore, stories, and patch notes.  
+
 
 
 ---
 
-## 🔧 My Toolbox
+##  My Toolbox
 - **Languages:** TypeScript, Go, PHP (Laravel), Lua, Python  
 - **Frontend:** React, Vue 3, Tailwind, Vite  
 - **Backend:** Laravel, Node.js, REST APIs, JWT Auth  
@@ -24,16 +23,16 @@ I design and build **production-grade systems** from the ground up — from deve
 
 ---
 
-## 🌱 Current Focus
+##  Current Focus
 - Scaling **Bento** into a lightweight SaaS with recurring revenue.   
 - Expanding into **cloud deployments** with DigitalOcean as Bento adoption grows.  
 
 ---
 
-## 📫 Socials
+##  Socials
 - **Portfolio:** [bos.froggie.ca](https://bos.froggie.ca)  
 - **LinkedIn:** [linkedin.com/in/boskyle](https://linkedin.com/in/boskyle)  
 
 ---
 
-✨ *I’m obsessed with turning complex systems into tools that feel simple — whether it’s helping developers skip infrastructure headaches or scaling games to thousands of players.*  
+ *I’m obsessed with turning complex systems into tools that feel simple — whether it’s helping developers skip infrastructure headaches or scaling games to thousands of players.*  
