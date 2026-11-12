@@ -1,32 +1,25 @@
-# Bos
+### Software Engineer. Systems Thinker. Independent Builder.
 
-Software Engineer building reliable systems, self-hosted infrastructure, and independent software.
+I build software, design systems, and occasionally spend too much time figuring out how things work under the hood.
 
-I like turning complex problems into simple, maintainable tools.
+My work spans product engineering, backend architecture, and infrastructure. I care about making complex systems feel simple, reliable, and intuitive.
 
-### Current work
+### Currently building
 
-**Knoten**  
-A workspace for notes, meetings, decisions, and action items.
+**[Knoten](https://knoten.froggie.ca)**  
+A home for project knowledge, connecting conversations, decisions, and the work that follows.
 
 **Atlas**  
-My self-hosted environment for apps, databases, deployments, and infrastructure experiments.
+My own little corner of the internet. Self-hosted infrastructure running applications, services, and whatever I'm experimenting with next.
 
-### What I care about
+### The craft
 
-- system design
-- backend architecture
-- developer experience
-- self-hosting
-- building from idea to production
+`Laravel` `PHP` `Vue` `TypeScript` `Docker` `Linux`
 
-### Tools I use often
+Less complexity. Better abstractions. Software that's built to last.
 
-Laravel, PHP, Vue, TypeScript, Docker, Linux
+### Elsewhere
 
-### Links
+[Portfolio](https://bos.froggie.ca) · [LinkedIn](https://linkedin.com/in/boskyle)
 
-- [Portfolio](https://bos.froggie.ca)
-- [LinkedIn](https://linkedin.com/in/boskyle)
-
-> Complex underneath. Simple where it counts.
+*Always building. Always learning.*
